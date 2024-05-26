@@ -1,0 +1,52 @@
+{
+  "shoes": [
+    {
+      "id": "1",
+      "title": "HOVR Phantom 2",
+      "brand": "Under Armour",
+      "price": 140,
+      "description": "The Under Armour HOVR Phantom 2's cushioning gives you back the energy you put in, making each stride feel light and bouncy.",
+      "image_url": "https://shoebizz.co.nz/cdn/shop/products/3024154-001_DEFAULT-Edited.png?v=1664327030"
+    },
+    {
+      "id": "3",
+      "title": "Classic Leather",
+      "brand": "Reebok",
+      "price": 75,
+      "description": "Timeless style meets comfortable performance in the Reebok Classic Leather. Featuring a soft leather upper and lightweight cushioning.",
+      "image_url": "https://www.transparentpng.com/thumb/adidas-shoes/6hXqLf-adidas-adipower-sport-boost-golf-shoe.png"
+    },
+    {
+      "id": "4",
+      "title": "Gel-Kayano 27",
+      "brand": "ASICS",
+      "price": 160,
+      "description": "The ASICS Gel-Kayano 27 running shoe combines stability with a responsive ride, offering support for long runs and everyday training.",
+      "image_url": "https://nocomplyatx.com/cdn/shop/products/adidas-skateboarding-superstar-adv-cloud-white-black-gold-metallic-GW6930webp_900x.webp?v=1668050686"
+    },
+    {
+      "id": "5",
+      "title": "Chuck Taylor All Star",
+      "brand": "Converse",
+      "price": 55,
+      "description": "An undisputed icon, the Converse Chuck Taylor All Star is a classic that has stood the test of time with its timeless design and versatility.",
+      "image_url": "https://clipart-library.com/images_k/shoes-transparent-background/shoes-transparent-background-20.png"
+    },
+    {
+      "id": "6",
+      "title": "Gel-Nimbus 23",
+      "brand": "ASICS",
+      "price": 150,
+      "description": "The ASICS Gel-Nimbus 23 provides improved comfort and impact absorption for long-distance running.",
+      "image_url": "https://www.pngmart.com/files/21/Adidas-Shoes-PNG-Clipart.png"
+    },
+    {
+      "id": "7",
+      "title": "Pegasus 38",
+      "brand": "Nike",
+      "price": 120,
+      "description": "The Nike Pegasus 38 continues to put a spring in your step, using the same responsive foam as its predecessor.",
+      "image_url": "https://www.transparentpng.com/thumb/adidas-shoes/sKWy6q-adidas-tennis-bermuda-mens-tennis-shoe.png"
+    }
+  ]
+}
