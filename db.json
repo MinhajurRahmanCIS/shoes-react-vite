@@ -47,6 +47,30 @@
       "price": 120,
       "description": "The Nike Pegasus 38 continues to put a spring in your step, using the same responsive foam as its predecessor.",
       "image_url": "https://www.transparentpng.com/thumb/adidas-shoes/sKWy6q-adidas-tennis-bermuda-mens-tennis-shoe.png"
+    },
+    {
+      "id": "7",
+      "title": "Nike Lunar Roam",
+      "brand": "Nike",
+      "price": "150",
+      "description": "Add a dash of bouncy performance to your lifestyle look with the Lunar Roam. Breezy, lightweight materials pair with supportive Magwire cables and an ultra-plush midsole for laid-back comfort you'll want to wear season after season. Step into this electric edition and make a bold, springy statement—wherever you roam.",
+      "image_url": "https://pngimg.com/d/running_shoes_PNG5782.png"
+    },
+    {
+      "id": "8",
+      "title": "Tatum 2 \"Legacy\"",
+      "brand": "Nike",
+      "price": "125",
+      "description": "You know the legend of Jordan Brand and the lore of Boston. Jayson Tatum takes both legacies into the future with this edition of the Tatum 2, combining the iconic \"White Cement\" with hot pops of color that celebrate his team. So, what's your legacy going to be? Step into the lightweight and flexible build of the Tatum 2 and make it what you want.",
+      "image_url": "https://www.pngall.com/wp-content/uploads/13/Nike-Shoes-PNG-Cutout.png"
+    },
+    {
+      "id": "9",
+      "title": "Nike Go FlyEase",
+      "brand": "Nike",
+      "price": "170",
+      "description": "Ditch the laces and get outside. These kicks feature Nike's revolutionary FlyEase technology, making on-and-off a breeze. With a heel that pivots open for a totally hands-free entry, they're great for people with limited mobility—or anyone who wants a quicker way to get going.",
+      "image_url": "https://www.pngall.com/wp-content/uploads/13/Nike-Shoes-PNG-Clipart.png"
     }
   ]
 }

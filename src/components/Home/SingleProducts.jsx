@@ -49,7 +49,7 @@ const SingleProducts = ({ shoe }) => {
                 <h2 className="card-title">{title}</h2>
                 <p className="text-justify">{description}</p>
                 <p><strong>Brand : </strong>{brand}</p>
-                <p><strong>Price : </strong>{price}</p>
+                <p><strong>Price : $</strong>{price}</p>
 
                 <div className="card-actions justify-end items-center">
                     <Link to={`/shoe/${id}`} className="btn btn-neutral">Details</Link >
