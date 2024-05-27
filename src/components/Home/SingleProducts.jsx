@@ -57,7 +57,7 @@ const SingleProducts = ({ shoe }) => {
                     <div className="dropdown dropdown-bottom dropdown-end">
                         <div tabIndex={0} role="button" className="btn m-1"><CiMenuKebab /></div>
                         <ul tabIndex={0} className="dropdown-content z-[1] menu p-2 shadow bg-base-100 rounded-box border items-center">
-                            <li><Link><FaRegEdit />Update</Link></li>
+                            <li><Link to={`/dashboard/update-product/${id}`}><FaRegEdit />Update</Link></li>
                             <li><button onClick={() => handelDelete(id)}><RiDeleteBin5Line />Remove</button></li>
                         </ul>
                     </div>

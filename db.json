@@ -2,9 +2,9 @@
   "shoes": [
     {
       "id": "1",
-      "title": "HOVR Phantom 2",
+      "title": "HOVR Phantom 3",
       "brand": "Under Armour",
-      "price": 140,
+      "price": "160",
       "description": "The Under Armour HOVR Phantom 2's cushioning gives you back the energy you put in, making each stride feel light and bouncy.",
       "image_url": "https://shoebizz.co.nz/cdn/shop/products/3024154-001_DEFAULT-Edited.png?v=1664327030"
     },

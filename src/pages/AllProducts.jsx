@@ -11,7 +11,7 @@ const AllProducts = () => {
     }, []);
     return (
         <div>
-            <h1 className="text-3xl text-center my-5">All Products : {products.length}</h1>
+            <h1 className="text-center text-4xl font-bold my-5">All Products : {products.length}</h1>
             <hr />
             <div className="grid lg:grid-cols-3 md:grid-cols-2 sm:grid-cols-1 gap-5 my-10">
                 {
